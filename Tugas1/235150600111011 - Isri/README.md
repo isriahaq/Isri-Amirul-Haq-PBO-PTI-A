@@ -1,8 +1,8 @@
 # 📁 Tugas 1 : Mengulang Materi PEMDAS
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Isri Amirul Haq             
+NIM  : 235150600111011
 
 ## 📤 Submission
 
@@ -14,13 +14,12 @@ Fitur yang ditiru : fitur A
 ### Template utk opsi tugas 2
 Opsi Tugas : 2            
 Sistem Informasi yang ditiru : SIAM              
-Fitur yang ditiru :                   
-1. fitur A
-2. fitur B
-3. fitur C 
-4. dst
+Fitur yang ditiru : biodata                  
+1. fitur menampilkan data
+2. fitur menambahkan data
+3. fitur mencari data
+4. fitur keluar
 
 ## 🔗 Link Penjelasan Tugas
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
-
+https://youtu.be/UD0DmBbtCK4?si=xfnsQKuJX-zj1EIA
