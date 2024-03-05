@@ -11,7 +11,7 @@ NIM  : 235150600111011
 
 ### Gunakan tempalate dibawah apabila pengerjaan bagian tugas praktikum merupakan aplikasi interaktif, dan hapus kode baris ini, hapus template berikut beserta kata baris ini apabila tugas praktikum bukan aplikasi interaktif
 
-Nama Aplikasi Program :    
+Nama Aplikasi Program : SIP (Sistem Informasi Perpustakaan)   
 Fitur Aplikasi Program :                   
 1. fitur tambah buku
 2. fitur tampilkan buku
