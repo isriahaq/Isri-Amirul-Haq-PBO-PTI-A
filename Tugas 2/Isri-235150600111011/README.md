@@ -6,8 +6,8 @@ NIM  : 235150600111011
 
 ## 📤 Submission
 
-1. Folder Analisis Percobaan : [Analisis Percobaan](./Analisis%20Percobaan/)
-2. Folder Tugas Praktikum : [Tugas Praktikum](./Tugas%20Praktikum/)
+1. Folder Analisis Percobaan : [Analisis Percobaan]([./Analisis%20Percobaan/](https://github.com/isriahaq/Isri-PBO-PTI-A/tree/b6f741f453a2db00f0e28b86915b03810b2d4e91/Tugas%202/Isri-235150600111011/Analisis%20Percobaan))
+2. Folder Tugas Praktikum : [Tugas Praktikum]()
 
 ### Gunakan tempalate dibawah apabila pengerjaan bagian tugas praktikum merupakan aplikasi interaktif, dan hapus kode baris ini, hapus template berikut beserta kata baris ini apabila tugas praktikum bukan aplikasi interaktif
 
