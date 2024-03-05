@@ -1,0 +1,123 @@
+Kategori: Teknologi
+Judul: JudulTeknologiA
+Penulis: PenulisTeknologiA
+
+Judul: JudulTeknologiB
+Penulis: PenulisTeknologiB
+
+Judul: JudulTeknologiC
+Penulis: PenulisTeknologiC
+
+Judul: JudulTeknologiD
+Penulis: PenulisTeknologiD
+
+Judul: JudulTeknologiE
+Penulis: PenulisTeknologiE
+
+
+
+Kategori: Psikologi
+Judul: JudulPsikologiA
+Penulis: PenulisPsikologiA
+
+Judul: JudulPsikologiB
+Penulis: PenulisPsikologiB
+
+Judul: JudulPsikologiC
+Penulis: PenulisPsikologiC
+
+Judul: JudulPsikologiD
+Penulis: PenulisPsikologiD
+
+Judul: JudulPsikologiE
+Penulis: PenulisPsikologiE
+
+
+
+Kategori: Agama
+Judul: JudulAgamaA
+Penulis: PenulisAgamaA
+
+Judul: JudulAgamaB
+Penulis: PenulisAgamaB
+
+Judul: JudulAgamaC
+Penulis: PenulisAgamaC
+
+Judul: JudulAgamaD
+Penulis: PenulisAgamaD
+
+Judul: JudulAgamaE
+Penulis: PenulisAgamaE
+
+
+
+Kategori: Politik
+Judul: JudulPolitikA
+Penulis: PenulisPolitikA
+
+Judul: JudulPolitikB
+Penulis: PenulisPolitikB
+
+Judul: JudulAgamaC
+Penulis: PenulisPolitikC
+
+Judul: JudulPolitikD
+Penulis: PenulisPolitikD
+
+Judul: JudulPolitikE
+Penulis: PenulisPolitikE
+
+
+
+Kategori: Sejarah
+Judul: JudulSejarahA
+Penulis: PenulisSejarahA
+
+Judul: JudulSejarahB
+Penulis: PenulisSejarahB
+
+Judul: JudulAgamaC
+Penulis: PenulisSejarahC
+
+Judul: JudulSejarahD
+Penulis: PenulisSejarahD
+
+Judul: JudulSejarahE
+Penulis: PenulisSejarahE
+
+
+
+Kategori: Filsafat
+Judul: JudulFilsafatA
+Penulis: PenulisFilsafatA
+
+Judul: JudulFilsafatB
+Penulis: PenulisFilsafatB
+
+Judul: JudulAgamaC
+Penulis: PenulisFilsafatC
+
+Judul: JudulFilsafatD
+Penulis: PenulisFilsafatD
+
+Judul: JudulFilsafatE
+Penulis: PenulisFilsafatE
+
+
+
+Kategori: Fiksi
+Judul: JudulFiksiA
+Penulis: PenulisFiksiA
+
+Judul: JudulFiksiB
+Penulis: PenulisFiksiB
+
+Judul: JudulAgamaC
+Penulis: PenulisFiksiC
+
+Judul: JudulFiksiD
+Penulis: PenulisFiksiD
+
+Judul: JudulFiksiE
+Penulis: PenulisFiksiE
