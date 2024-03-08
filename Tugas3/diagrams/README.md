@@ -8,9 +8,9 @@ NIM  : 235150600111011
 
 Tema yang dipilih : 
 Class Diagram yang dibuat : 
-1. Class Diagram 1
-2. Class Diagram 2
-dst
+1. Class Buku
+2. Class Anggota Perpustakaan
+3. Class Perpustakaan
 
 ## 🔗 Link Penjelasan Tugas
 
