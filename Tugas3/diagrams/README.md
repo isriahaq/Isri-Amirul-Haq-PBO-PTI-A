@@ -6,7 +6,7 @@ NIM  : 235150600111011
 
 ## 📤 Submission
 
-Tema yang dipilih : 
+Tema yang dipilih : Perpustakaan
 Class Diagram yang dibuat : 
 1. Class Buku
 2. Class Anggota Perpustakaan
