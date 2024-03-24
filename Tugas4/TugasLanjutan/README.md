@@ -6,7 +6,7 @@ NIM  : 235150600111011
 
 ## 📤 Submission
 
-Tema yang dipilih : 
+Tema yang dipilih : Perpustakaan
 Class Diagram yang dibuat : 
 1. Class Perpustakaan
 2. Class AnggotaPerpustakaan
@@ -16,10 +16,8 @@ Class Diagram yang dibuat :
 
 Gunakan template ini apabila kamu mengerjakan optional requirements
 
-Ampun kak....
-
 
 
 ## 🔗 Link Penjelasan Tugas
 
-https://youtu
+https://youtu.be/rt5e-mOEwfI
